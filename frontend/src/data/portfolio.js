@@ -8,7 +8,7 @@ export default [
     {
        title: 'Good News ML Aggregator',
        imgUrl: '/assets/idea-gn.jpeg',
-       stack: ['Python',],
-       link: 'https://noticiasinteligentes.com/',
+       stack: ['ReactJS', 'Tailwind', 'AWS', 'Python'],
+       link: 'http://noticiasinteligentes.com/',
     },
 ] 
