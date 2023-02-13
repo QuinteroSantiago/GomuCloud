@@ -5,8 +5,9 @@ Place where I will host some ideas
 Some of the feature ideas that should be implemented in the Gomu cloud.
 
 ## TODO
-### Frontend
-### Backend
+1. Make User System
+1. Have purpose for building this
+
 
 ### App Wide
 1. User Management System
