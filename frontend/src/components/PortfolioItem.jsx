@@ -1,6 +1,10 @@
 import React from 'react';
 
 function PortfolioItem({ title, imgUrl, stack, link }) {
+   console.log(title)
+   console.log(imgUrl)
+   console.log(stack)
+   console.log(link)
    return (
       <a 
          href={link}
