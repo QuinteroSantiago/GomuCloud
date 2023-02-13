@@ -1,4 +1,0 @@
-# Python local files
-./__pycache__/*
-./lib/*
-./venv/*
